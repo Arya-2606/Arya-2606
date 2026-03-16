@@ -1,13 +1,18 @@
-<h1 align="center">🔥 Arya A P</h1>
-<h3 align="center">Data Science Student | Machine Learning Enthusiast | AI Developer</h3>
+<h1 align="center">Arya A P</h1>
+<h3 align="center">Data Science Student • Machine Learning Enthusiast • AI Developer</h3>
 
 <p align="center">
-📍 Tamil Nadu, India  
+📍 Coimbatore, Tamil Nadu <br>
+📧 aryaap1003@gmail.com <br>
+📞 +91 XXXXXXXXXX
 </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/aryaap2005/">
 <img src="https://img.shields.io/badge/LinkedIn-Arya%20A%20P-blue?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:aryaap1003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail">
 </a>
 </p>
 
@@ -21,56 +26,55 @@ I am a **Data Science student passionate about Machine Learning and Artificial I
 I enjoy building intelligent systems that analyze data, extract insights, and solve real-world problems.
 
 - 🎓 MSc Data Science Student  
-- 🤖 Interested in Machine Learning & AI systems  
-- 📊 Strong focus on data-driven solutions  
-- 🚀 Always exploring new technologies in AI  
+- 🤖 Exploring Machine Learning and AI systems  
+- 📊 Focused on building data-driven applications  
+- 🚀 Constantly learning and experimenting with new technologies  
+
+---
+
+# 📌 Pinned Project
+
+## 🚌 Footboard Violation Detection System
+
+A **computer vision based safety system** designed to detect dangerous **footboard riding on buses** using deep learning techniques.
+
+### Key Features
+- Real-time passenger detection
+- Computer vision based monitoring
+- Deep learning powered object detection
+- Designed to improve passenger safety
+
+### Technologies Used
+- Python  
+- Computer Vision  
+- Deep Learning  
 
 ---
 
 # 🧠 Expertise
 
-I specialize in **Machine Learning and Artificial Intelligence**, with a strong background in **data analysis, model development, and algorithm design**.
+I specialize in **Machine Learning and Artificial Intelligence**, with experience in **data preprocessing, model development, and algorithm design**.
 
 ---
 
 # ⚙️ Skills
 
-### Machine Learning
-- Machine Learning Algorithms
-- Data Preprocessing
-- Feature Engineering
-- Model Evaluation
+### 🤖 Machine Learning
+- Machine Learning Algorithms  
+- Data Preprocessing  
+- Feature Engineering  
+- Model Evaluation  
 
-### Programming
+### 💻 Programming
+- Python  
+- JavaScript  
+- SQL (Basic)
 
-- Python
-- JavaScript
-- SQL (basic)
-
-### Data Science Tools
-
-- Pandas
-- NumPy
-- Scikit-Learn
-- TensorFlow / Deep Learning
-
----
-
-# 🚀 Featured Project
-
-## 🚌 Footboard Violation Detection System
-
-A **computer vision system** designed to detect dangerous footboard riding on buses using deep learning.
-
-### Features
-- Real-time detection using computer vision
-- Deep learning based object detection
-- Improves passenger safety
-
-### Technologies Used
-- Python
-- Computer Vision
-- Deep Learning
+### 📊 Data Science Tools
+- Pandas  
+- NumPy  
+- Scikit-Learn  
+- TensorFlow / Deep Learning  
 
 ---
 
@@ -100,6 +104,10 @@ A **computer vision system** designed to detect dangerous footboard riding on bu
 
 <a href="https://www.linkedin.com/in/aryaap2005/">
 <img src="https://img.shields.io/badge/LinkedIn-Arya%20A%20P-blue?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="mailto:aryaap1003@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-aryaap1003%40gmail.com-red?style=for-the-badge&logo=gmail">
 </a>
 
 </p>
