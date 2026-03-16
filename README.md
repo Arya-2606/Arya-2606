@@ -4,7 +4,7 @@
 <p align="center">
 📍 Coimbatore, Tamil Nadu <br>
 📧 aryaap1003@gmail.com <br>
-📞 +91 XXXXXXXXXX
+📞 +91 8124662064
 </p>
 
 <p align="center">
