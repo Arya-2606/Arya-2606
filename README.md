@@ -34,20 +34,13 @@ I enjoy building intelligent systems that analyze data, extract insights, and so
 
 # 📌 Pinned Project
 
-## 🚌 Footboard Violation Detection System
+<p align="center">
 
-A **computer vision based safety system** designed to detect dangerous **footboard riding on buses** using deep learning techniques.
+<a href="https://github.com/Arya-2606/Footboard_violation_detection_system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arya-2606&repo=Footboard_violation_detection_system&theme=tokyonight"/>
+</a>
 
-### Key Features
-- Real-time passenger detection
-- Computer vision based monitoring
-- Deep learning powered object detection
-- Designed to improve passenger safety
-
-### Technologies Used
-- Python  
-- Computer Vision  
-- Deep Learning  
+</p>
 
 ---
 
