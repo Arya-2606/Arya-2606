@@ -37,15 +37,15 @@ I enjoy building intelligent systems that analyze data, extract insights, and so
 <p align="center">
 
 <a href="https://github.com/Arya-2606/Footboard_violation_detection_system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arya-2606&repo=Footboard_violation_detection_system&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arya-2606&repo=Footboard_violation_detection_system&theme=tokyonight&cache_seconds=1800"/>
 </a>
 
 <a href="https://github.com/Arya-2606/MoodSync-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arya-2606&repo=MoodSync-AI&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arya-2606&repo=MoodSync-AI&theme=tokyonight&cache_seconds=1800"/>
 </a>
 
 <a href="https://github.com/Arya-2606/Elderly-Voice-Assistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arya-2606&repo=Elderly-Voice-Assistant&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arya-2606&repo=Elderly-Voice-Assistant&theme=tokyonight&cache_seconds=1800"/>
 </a>
 
 </p>
@@ -82,7 +82,7 @@ I specialize in **Machine Learning and Artificial Intelligence**, with experienc
 # 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya-2606&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya-2606&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
