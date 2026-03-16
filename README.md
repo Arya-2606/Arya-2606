@@ -71,18 +71,6 @@ I specialize in **Machine Learning and Artificial Intelligence**, with experienc
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Arya-2606&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arya-2606&theme=tokyonight"/>
-
-</p>
-
----
-
 # 📈 Most Used Languages
 
 <p align="center">
