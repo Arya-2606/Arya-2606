@@ -4,7 +4,7 @@
 <p align="center">
 📍 Coimbatore, Tamil Nadu <br>
 📧 aryaap1003@gmail.com <br>
-📞 +91 8124662064
+📞 +91 XXXXXXXXXX
 </p>
 
 <p align="center">
@@ -32,12 +32,16 @@ I enjoy building intelligent systems that analyze data, extract insights, and so
 
 ---
 
-# 📌 Pinned Project
+# 📌 Pinned Projects
 
 <p align="center">
 
 <a href="https://github.com/Arya-2606/Footboard_violation_detection_system">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arya-2606&repo=Footboard_violation_detection_system&theme=tokyonight"/>
+</a>
+
+<a href="https://github.com/Arya-2606/MoodSync-AI">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arya-2606&repo=MoodSync-AI&theme=tokyonight"/>
 </a>
 
 </p>
