@@ -20,8 +20,6 @@
 
 # 👨‍💻 About Me
 
-Welcome to my GitHub profile!
-
 I am a **Data Science student passionate about Machine Learning and Artificial Intelligence**.  
 I enjoy building intelligent systems that analyze data, extract insights, and solve real-world problems.
 
@@ -34,39 +32,46 @@ I enjoy building intelligent systems that analyze data, extract insights, and so
 
 # 📌 Pinned Projects
 
-<p align="center">
+<div align="center">
 
 <a href="https://github.com/Arya-2606/Footboard_violation_detection_system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arya-2606&repo=Footboard_violation_detection_system&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arya-2606&repo=Footboard_violation_detection_system&theme=tokyonight&cache_seconds=300"/>
 </a>
 
-<p align="center">
-🚍 AI-based system to detect unsafe bus footboard riding using YOLOv8 and real-time video processing.
-</p>
+<br>
+
+🚍 **AI-based system to detect unsafe bus footboard riding using YOLOv8 and real-time video processing.**
+
+<br><br>
 
 <a href="https://github.com/Arya-2606/MoodSync-AI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arya-2606&repo=MoodSync-AI&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arya-2606&repo=MoodSync-AI&theme=tokyonight&cache_seconds=300"/>
 </a>
 
-<p align="center">
-🎵 Emotion-aware music recommendation system using audio feature extraction and machine learning.
-</p>
+<br>
+
+🎵 **Emotion-aware music recommendation system using audio feature extraction and machine learning.**
+
+<br><br>
 
 <a href="https://github.com/Arya-2606/Elderly-Voice-Assistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arya-2606&repo=Elderly-Voice-Assistant&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Arya-2606&repo=Elderly-Voice-Assistant&theme=tokyonight&cache_seconds=300"/>
 </a>
 
-<p align="center">
-🗣️ AI-powered voice assistant for elderly users using speech recognition and NLP.
-</p>
+<br>
 
-</p>
+🗣️ **AI-powered voice assistant for elderly users using speech recognition and NLP.**
+
+</div>
 
 ---
 
 # 🧠 Expertise
 
-I specialize in **Machine Learning and Artificial Intelligence**, with experience in **data preprocessing, model development, and algorithm design**.
+I specialize in **Machine Learning and Artificial Intelligence**, with experience in:
+- Data preprocessing  
+- Model development  
+- Algorithm design  
 
 ---
 
@@ -81,7 +86,7 @@ I specialize in **Machine Learning and Artificial Intelligence**, with experienc
 ### 💻 Programming
 - Python  
 - JavaScript  
-- SQL (Basic)
+- SQL  
 
 ### 📊 Data Science Tools
 - Pandas  
@@ -94,14 +99,14 @@ I specialize in **Machine Learning and Artificial Intelligence**, with experienc
 # 📈 Most Used Languages
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya-2606&layout=compact&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya-2606&layout=compact&theme=tokyonight&cache_seconds=300"/>
 </p>
 
 ---
 
 # 🤝 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://www.linkedin.com/in/aryaap2005/">
 <img src="https://img.shields.io/badge/LinkedIn-Arya%20A%20P-blue?style=for-the-badge&logo=linkedin">
