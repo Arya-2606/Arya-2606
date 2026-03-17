@@ -40,13 +40,25 @@ I enjoy building intelligent systems that analyze data, extract insights, and so
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arya-2606&repo=Footboard_violation_detection_system&theme=tokyonight&cache_seconds=1800"/>
 </a>
 
+<p align="center">
+🚍 AI-based system to detect unsafe bus footboard riding using YOLOv8 and real-time video processing.
+</p>
+
 <a href="https://github.com/Arya-2606/MoodSync-AI">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arya-2606&repo=MoodSync-AI&theme=tokyonight&cache_seconds=1800"/>
 </a>
 
+<p align="center">
+🎵 Emotion-aware music recommendation system using audio feature extraction and machine learning.
+</p>
+
 <a href="https://github.com/Arya-2606/Elderly-Voice-Assistant">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=Arya-2606&repo=Elderly-Voice-Assistant&theme=tokyonight&cache_seconds=1800"/>
 </a>
+
+<p align="center">
+🗣️ AI-powered voice assistant for elderly users using speech recognition and NLP.
+</p>
 
 </p>
 
